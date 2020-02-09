@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Information Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Map---Place" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-334.000000, -64.000000)">
+        <g id="Buttons" transform="translate(322.000000, 52.000000)" fill="#007AFF">
+            <g id="Graphics-/-Navbar-&amp;-Toolbar-Icons-/-Blue-/-Info" transform="translate(12.000000, 12.000000)">
+                <path d="M10.875,7.25 C11.6343915,7.25 12.25,6.63439153 12.25,5.875 C12.25,5.11560847 11.6343915,4.5 10.875,4.5 C10.1156085,4.5 9.5,5.11560847 9.5,5.875 C9.5,6.63439153 10.1156085,7.25 10.875,7.25 Z M10,8.5 L12,8.5 L12,16.5 L13,16.5 L13,17 L9,17 L9,16.5 L10,16.5 L10,9 L9,9 L9,8.5 L10,8.5 Z M11,21 L11,21 C16.5228475,21 21,16.5228475 21,11 C21,5.4771525 16.5228475,1 11,1 C5.4771525,1 1,5.4771525 1,11 C1,16.5228475 5.4771525,21 11,21 L11,21 Z M11,22 L11,22 C4.92486775,22 0,17.0751322 0,11 C0,4.92486775 4.92486775,0 11,0 C17.0751322,0 22,4.92486775 22,11 C22,17.0751322 17.0751322,22 11,22 L11,22 Z" id="Information-Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

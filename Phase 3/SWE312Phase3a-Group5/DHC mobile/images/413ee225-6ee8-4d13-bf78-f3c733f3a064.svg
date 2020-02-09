@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="1px" viewBox="0 0 45 1" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Line</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Map---Place" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-322.000000, -97.000000)">
+        <g id="Buttons" transform="translate(322.000000, 52.000000)" fill="#CDCED2">
+            <rect id="Line" x="0" y="45" width="45" height="1"></rect>
+        </g>
+    </g>
+</svg>
