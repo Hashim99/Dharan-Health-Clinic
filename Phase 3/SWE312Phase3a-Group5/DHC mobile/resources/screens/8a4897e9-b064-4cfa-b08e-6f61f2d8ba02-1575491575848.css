@@ -1,0 +1,101 @@
+#s-8a4897e9-b064-4cfa-b08e-6f61f2d8ba02 > #backgroundBox {
+  background-color: #506485;
+  background-repeat: repeat;
+  background-position-x: left;
+  background-position-y: top;
+  background-attachment: scroll;
+  background-size: auto;
+  background-image: none;
+  position: absolute;
+}
+#s-8a4897e9-b064-4cfa-b08e-6f61f2d8ba02 > #alignmentBox {
+  position: relative;
+  max-width: 375px;
+  max-height: 812px;
+  width: 100%;
+  height: 100%;
+}
+#s-8a4897e9-b064-4cfa-b08e-6f61f2d8ba02 #s-Text_2 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+#s-8a4897e9-b064-4cfa-b08e-6f61f2d8ba02 #s-Text_2 {
+  position: absolute;
+  width: 375px;
+  height: 33px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 20.0pt;
+  font-family: 'Adobe Thai',Arial;
+}
+#s-8a4897e9-b064-4cfa-b08e-6f61f2d8ba02 #s-Text_2 > .clipping, #s-8a4897e9-b064-4cfa-b08e-6f61f2d8ba02 #s-Text_2 > .paddingLayer {
+  height: 33px;
+  width: 375px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-8a4897e9-b064-4cfa-b08e-6f61f2d8ba02 #s-Text_2 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-8a4897e9-b064-4cfa-b08e-6f61f2d8ba02 #s-Text_2 span {
+  color: #F4F1D0;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Adobe Thai',Arial;
+  font-size: 20.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-8a4897e9-b064-4cfa-b08e-6f61f2d8ba02 #s-Text_2 span#rtr-s-Text_2_0 {
+  color: #F4F1D0;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Adobe Thai',Arial;
+  font-size: 20.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-8a4897e9-b064-4cfa-b08e-6f61f2d8ba02 #s-Image_6 {
+  position: absolute;
+  width: 190px;
+  height: 190px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-8a4897e9-b064-4cfa-b08e-6f61f2d8ba02 #s-Image_6 > img, #s-8a4897e9-b064-4cfa-b08e-6f61f2d8ba02 #s-Image_6 > svg {
+  height: 190px;
+  width: 190px;
+  box-shadow: none;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-8a4897e9-b064-4cfa-b08e-6f61f2d8ba02 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
