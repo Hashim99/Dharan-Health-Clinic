@@ -1,2 +1,2 @@
-# Dharan-Health-Clinic
+# Dhahran-Health-Clinic
 UI &amp; UX Project
